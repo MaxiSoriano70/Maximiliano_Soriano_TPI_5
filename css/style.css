@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Roboto:wght@100;400;700&display=swap');
+
+*{
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-container-top{
+    background-color: #222;
+    color: #F3f3f3;
+    font-weight: 400;
+}
+
+.header-list{
+    list-style: none;
+}
+
+.header-container-botton{
+    background-color: #F0a83e;
+}
+
+.logo-base{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+    color: #fff;
+}
+
+.logo-first{
+    color: #3c2313;
+}
+
+.nav-links{
+    list-style: none;
+    color: #fff;
+    font-size: 13px;
+}
+
+.banner{
+    background-image: url("../img/Slide.png");
+    background-size: cover;
+    font-weight: 400;
+    height: 700px;
+    text-align: center;
+    width: 100%;
+}
+
+.banner h2{
+    background-color: #fff;
+    font-size: 30px;
+    height: 35px;
+    margin: 25px 0;
+    width: 345;
+}
+
+.banner p{
+    font-size: 16px;
+    line-height: 18.75px;
+}
+
+.button-comederos{
+    font-size: 16px;
+    line-height: 18.75px;
+}
+
+.banner a{
+    background-color: #F0a83e;
+    color: #fff;
+    text-decoration: none;
+}
+
+.productos-destacados h2{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.categorias-productos{
+    margin-bottom: 20px;
+}
+
+.producto p{
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.producto span{
+    color: #F0a83e;
+}
+
+.informacion{
+    background-color: #3C2313;
+}
+
+.informacion h3{
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.informacion p{
+    color: #8A8787;
+}
+
+.logo-footer{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+}
+
+.logo-second-front{
+    color: #fff;
+}
+
+.logo-second-cyd{
+    color: #F0a83e;
+}
+
+.copyright{
+    background-color: #F0a83e;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.copyright p{
+    font-weight: bold;
+}
